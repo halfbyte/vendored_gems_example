@@ -1,5 +1,5 @@
 task :test do
-  echo "yip"
+  puts "yip"
 end
 task default: :test
 
