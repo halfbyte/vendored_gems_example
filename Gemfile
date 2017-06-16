@@ -7,4 +7,4 @@ gem 'uglifier'
 gem 'json'
 gem 'capybara'
 gem 'rake'#, '~> 11.0'
-
+gem 'dotenv-rails'#, '2.2.0'
